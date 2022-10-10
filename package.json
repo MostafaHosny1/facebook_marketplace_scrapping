@@ -1,0 +1,17 @@
+{
+  "name": "rev1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^15.4.0",
+    "xlsx": "^0.18.5"
+  }
+}
